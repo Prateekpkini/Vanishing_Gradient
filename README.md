@@ -35,7 +35,7 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
 Simply clone the repository and run the Python script. The dataset will download automatically (if not already cached), and training will begin.
 
 Bash
-git clone https://github.com/yourusername/vanishing-gradient-demo.git
+git clone https://github.com/prateekpkini/vanishing-gradient-demo.git
 cd vanishing-gradient-demo
 python main.py
  What You Will See
